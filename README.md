@@ -32,5 +32,14 @@
 ## Counting
 |  |
 | ------- |
+| [1708-design-parking-system](https://github.com/Deepanshu-sys/Leetcode/tree/master/1708-design-parking-system) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Deepanshu-sys/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+## Design
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/Deepanshu-sys/Leetcode/tree/master/1708-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/Deepanshu-sys/Leetcode/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
