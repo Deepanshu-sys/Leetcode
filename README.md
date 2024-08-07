@@ -30,6 +30,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Deepanshu-sys/Leetcode/tree/master/0020-valid-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Deepanshu-sys/Leetcode/tree/master/0273-integer-to-english-words) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Deepanshu-sys/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Deepanshu-sys/Leetcode/tree/master/0273-integer-to-english-words) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Deepanshu-sys/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
