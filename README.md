@@ -6,6 +6,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/Deepanshu-sys/Leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Deepanshu-sys/Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Deepanshu-sys/Leetcode/tree/master/0075-sort-colors) |
 | [0523-continuous-subarray-sum](https://github.com/Deepanshu-sys/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Deepanshu-sys/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Deepanshu-sys/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -76,4 +77,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Deepanshu-sys/Leetcode/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Deepanshu-sys/Leetcode/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Deepanshu-sys/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
