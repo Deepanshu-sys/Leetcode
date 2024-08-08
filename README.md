@@ -52,9 +52,14 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Deepanshu-sys/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0273-integer-to-english-words](https://github.com/Deepanshu-sys/Leetcode/tree/master/0273-integer-to-english-words) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deepanshu-sys/Leetcode/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Deepanshu-sys/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
