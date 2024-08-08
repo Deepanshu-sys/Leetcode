@@ -24,6 +24,7 @@
 | [0009-palindrome-number](https://github.com/Deepanshu-sys/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Deepanshu-sys/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Deepanshu-sys/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Deepanshu-sys/Leetcode/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/Deepanshu-sys/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0523-continuous-subarray-sum](https://github.com/Deepanshu-sys/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Deepanshu-sys/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Deepanshu-sys/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Deepanshu-sys/Leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Deepanshu-sys/Leetcode/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/Deepanshu-sys/Leetcode/tree/master/0273-integer-to-english-words) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Deepanshu-sys/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
@@ -50,6 +52,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Deepanshu-sys/Leetcode/tree/master/0067-add-binary) |
 | [1708-design-parking-system](https://github.com/Deepanshu-sys/Leetcode/tree/master/1708-design-parking-system) |
 ## Recursion
 |  |
@@ -64,4 +67,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Deepanshu-sys/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Deepanshu-sys/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
