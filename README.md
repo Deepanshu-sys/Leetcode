@@ -25,6 +25,7 @@
 | [0013-roman-to-integer](https://github.com/Deepanshu-sys/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Deepanshu-sys/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Deepanshu-sys/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Deepanshu-sys/Leetcode/tree/master/0069-sqrtx) |
 | [0273-integer-to-english-words](https://github.com/Deepanshu-sys/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0523-continuous-subarray-sum](https://github.com/Deepanshu-sys/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Deepanshu-sys/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Deepanshu-sys/Leetcode/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Deepanshu-sys/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
