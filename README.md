@@ -12,6 +12,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepanshu-sys/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Deepanshu-sys/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0921-spiral-matrix-iii](https://github.com/Deepanshu-sys/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/Deepanshu-sys/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Deepanshu-sys/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Deepanshu-sys/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Deepanshu-sys/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -21,6 +22,7 @@
 | [0013-roman-to-integer](https://github.com/Deepanshu-sys/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Deepanshu-sys/Leetcode/tree/master/0041-first-missing-positive) |
 | [0523-continuous-subarray-sum](https://github.com/Deepanshu-sys/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0999-regions-cut-by-slashes](https://github.com/Deepanshu-sys/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Deepanshu-sys/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Deepanshu-sys/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Math
@@ -113,4 +115,17 @@
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/Deepanshu-sys/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/Deepanshu-sys/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Deepanshu-sys/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Deepanshu-sys/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Deepanshu-sys/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
