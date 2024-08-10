@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/Deepanshu-sys/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Deepanshu-sys/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Deepanshu-sys/Leetcode/tree/master/0075-sort-colors) |
+| [0162-find-peak-element](https://github.com/Deepanshu-sys/Leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepanshu-sys/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Deepanshu-sys/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0921-spiral-matrix-iii](https://github.com/Deepanshu-sys/Leetcode/tree/master/0921-spiral-matrix-iii) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Deepanshu-sys/Leetcode/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/Deepanshu-sys/Leetcode/tree/master/0162-find-peak-element) |
 ## Two Pointers
 |  |
 | ------- |
