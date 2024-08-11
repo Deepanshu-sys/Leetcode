@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/Deepanshu-sys/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Deepanshu-sys/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Deepanshu-sys/Leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepanshu-sys/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Deepanshu-sys/Leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepanshu-sys/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Deepanshu-sys/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Deepanshu-sys/Leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepanshu-sys/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Deepanshu-sys/Leetcode/tree/master/0392-is-subsequence) |
 ## Matrix
 |  |
