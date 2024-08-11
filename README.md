@@ -14,6 +14,7 @@
 | [0921-spiral-matrix-iii](https://github.com/Deepanshu-sys/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Deepanshu-sys/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Deepanshu-sys/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Deepanshu-sys/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Deepanshu-sys/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Deepanshu-sys/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
@@ -116,16 +117,23 @@
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/Deepanshu-sys/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Deepanshu-sys/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Deepanshu-sys/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Deepanshu-sys/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Deepanshu-sys/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Deepanshu-sys/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Deepanshu-sys/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Union Find
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Deepanshu-sys/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Deepanshu-sys/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
