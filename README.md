@@ -17,6 +17,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Deepanshu-sys/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Deepanshu-sys/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Deepanshu-sys/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2350-find-closest-number-to-zero](https://github.com/Deepanshu-sys/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
