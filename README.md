@@ -49,6 +49,7 @@
 | [0020-valid-parentheses](https://github.com/Deepanshu-sys/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Deepanshu-sys/Leetcode/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/Deepanshu-sys/Leetcode/tree/master/0273-integer-to-english-words) |
+| [1894-merge-strings-alternately](https://github.com/Deepanshu-sys/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Deepanshu-sys/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
 |  |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Deepanshu-sys/Leetcode/tree/master/0075-sort-colors) |
+| [1894-merge-strings-alternately](https://github.com/Deepanshu-sys/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
