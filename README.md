@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Deepanshu-sys/Leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Deepanshu-sys/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Deepanshu-sys/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Deepanshu-sys/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Deepanshu-sys/Leetcode/tree/master/0075-sort-colors) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Deepanshu-sys/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Deepanshu-sys/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Deepanshu-sys/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Deepanshu-sys/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Deepanshu-sys/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Deepanshu-sys/Leetcode/tree/master/0069-sqrtx) |
@@ -129,6 +131,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Deepanshu-sys/Leetcode/tree/master/0048-rotate-image) |
 | [0921-spiral-matrix-iii](https://github.com/Deepanshu-sys/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Deepanshu-sys/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Deepanshu-sys/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
