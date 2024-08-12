@@ -12,6 +12,7 @@
 | [0162-find-peak-element](https://github.com/Deepanshu-sys/Leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepanshu-sys/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/Deepanshu-sys/Leetcode/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/Deepanshu-sys/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Deepanshu-sys/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0921-spiral-matrix-iii](https://github.com/Deepanshu-sys/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Deepanshu-sys/Leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -43,6 +44,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Deepanshu-sys/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Deepanshu-sys/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## String
 |  |
