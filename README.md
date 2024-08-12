@@ -7,6 +7,7 @@
 | [0041-first-missing-positive](https://github.com/Deepanshu-sys/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Deepanshu-sys/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Deepanshu-sys/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Deepanshu-sys/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Deepanshu-sys/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Deepanshu-sys/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepanshu-sys/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -72,6 +73,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Deepanshu-sys/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Deepanshu-sys/Leetcode/tree/master/0067-add-binary) |
 | [0921-spiral-matrix-iii](https://github.com/Deepanshu-sys/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1708-design-parking-system](https://github.com/Deepanshu-sys/Leetcode/tree/master/1708-design-parking-system) |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Deepanshu-sys/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Deepanshu-sys/Leetcode/tree/master/0054-spiral-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/Deepanshu-sys/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Deepanshu-sys/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Deepanshu-sys/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
