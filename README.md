@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/Deepanshu-sys/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Deepanshu-sys/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Deepanshu-sys/Leetcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Deepanshu-sys/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Deepanshu-sys/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Deepanshu-sys/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepanshu-sys/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -108,6 +109,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Deepanshu-sys/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Deepanshu-sys/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepanshu-sys/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
