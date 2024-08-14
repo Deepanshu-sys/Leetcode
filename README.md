@@ -45,6 +45,7 @@
 | [0069-sqrtx](https://github.com/Deepanshu-sys/Leetcode/tree/master/0069-sqrtx) |
 | [0273-integer-to-english-words](https://github.com/Deepanshu-sys/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0523-continuous-subarray-sum](https://github.com/Deepanshu-sys/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Deepanshu-sys/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Deepanshu-sys/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Prefix Sum
 |  |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Deepanshu-sys/Leetcode/tree/master/0067-add-binary) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Deepanshu-sys/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
 | ------- |
